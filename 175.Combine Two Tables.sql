@@ -1,3 +1,4 @@
+/*
 175. Combine Two Tables
 
 Table: Person
@@ -21,7 +22,7 @@ Table: Address
 | State       | varchar |
 +-------------+---------+
 AddressId is the primary key column for this table.
-
+*/
 
 Solution:
 
